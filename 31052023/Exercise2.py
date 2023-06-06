@@ -1,0 +1,5 @@
+x = input("Please enter a variable for x: ")
+y = input("Please enter a variable for y: ")
+x = int(x)
+y = int(y)
+print('The remainder of ',x,'and',y,'is:',x%y)
